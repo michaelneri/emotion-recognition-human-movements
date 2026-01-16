@@ -1,5 +1,5 @@
 # HerModel
-Official repository to the article "Markerless emotion recognition from full-body movements for Social XR" submitted to Signal Processing: Image Communication.
+Official repository to the article "Markerless emotion recognition from full-body movements for Social XR" accepted for publication in Signal Processing: Image Communication.
 
 ## Authors
 
